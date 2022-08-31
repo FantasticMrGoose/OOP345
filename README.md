@@ -1,1 +1,1 @@
-# OOP345
+# OOP345 Assignments and Projects
